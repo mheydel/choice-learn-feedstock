@@ -23,8 +23,8 @@ requirements:
     - python >=${{ python_min }}
     - numpy >=1.24
     - pandas >=1.5.3
-    - tensorflow >=2.14,<2.17.0
-    - tensorflow-probability >=0.22
+    - tensorflow >=2.18
+    - tensorflow-probability >=0.23
     - tqdm >=4.0.0
     - tf-keras <3
 
