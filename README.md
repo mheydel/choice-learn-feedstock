@@ -151,4 +151,5 @@ Feedstock Maintainers
 =====================
 
 * [@DelongChenQC](https://github.com/DelongChenQC/)
+* [@mheydel](https://github.com/mheydel/)
 
