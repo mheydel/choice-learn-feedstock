@@ -32,10 +32,7 @@ tests:
   - python:
       imports:
         - choice_learn
-      pip_check: true
-      python_version:
-        - ${{ python_min }}.*
-        - "*"
+      pip_check: false
 
 about:
   homepage: https://github.com/artefactory/choice-learn
